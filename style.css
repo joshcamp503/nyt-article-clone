@@ -1,0 +1,20 @@
+#main-image {
+  height: 632px;
+  width: 1125px;
+  background-size: cover;
+  background-image: url("assets/nyt-article-img1.jpg");
+  margin: 0 auto;
+}
+
+#content-video {
+  height: 315px;
+  width: 645px;
+  background-color: black;
+  text-align: center;
+}
+
+#secondary-image {
+  height: 430px;
+  width: 645px;
+  background-image: url("assets/nyt-article-img2.jpg");
+}
